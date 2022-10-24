@@ -14,7 +14,7 @@ PERMI  20000 10 100 50 20
 
 In this case, 20000 is the largest permeability value allowed in the "fake" grid block without causing an error in CMG.  Edit the line related to grid spacing (keyword: `DI IVAR`) in an appropriate way as well.  Save the input file and run.  Remember to run the simulation for 3 days in 1 day increment time steps.  Once the program has finished running without error, there should be a file `assignment14.out` in the run directory.  Copy this file into this repository, add, commit, and push to Github for submission.
 
-You can use CMG from home via the by remote connection into CPE LRC computers.  Go to [https://pge.utexas.edu/LRC] to download a remote connection file.  There are some very small differences between the 2020 version of CMG and the vivideo, but they should not affect your ability to follow the video and complete the assignment.
+You can use CMG from home via the by remote connection into CPE LRC computers.  Go to [https://pge.utexas.edu/LRC](https://pge.utexas.edu/LRC) to download a remote connection file.  There are some very small differences between the 2020 version of CMG and the video, but they should not affect your ability to follow the video and complete the assignment.
 
 ## Testing
 
